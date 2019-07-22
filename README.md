@@ -1,6 +1,6 @@
 # puppeteer-extra-plugin-proxy
 
-> A plugin for [puppeteer-extra](https://github.com/berstend/puppeteer-extra) to prevent proxy support.
+> A plugin for [puppeteer-extra](https://github.com/berstend/puppeteer-extra) to add proxy support
 
 ## Install
 
