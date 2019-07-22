@@ -1,0 +1,39 @@
+{
+  "name": "puppeteer-extra-plugin-proxy",
+  "version": "1.0.0",
+  "description": "A puppeteer-extra plugin to add convenient proxy support to puppeteer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/f9mac/puppeteer-extra-plugin-proxy.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "puppeteer-extra",
+    "puppeteer-extra-plugin",
+    "proxy",
+    "chrome",
+    "headless",
+    "authless"
+  ],
+  "author": "f9mac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f9mac/puppeteer-extra-plugin-proxy/issues"
+  },
+  "homepage": "https://github.com/f9mac/puppeteer-extra-plugin-proxy#readme",
+  "dependencies": {
+    "puppeteer-extra-plugin": "^3.0.4"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^6.2.0",
+    "puppeteer-extra": "^2.1.3"
+  }
+}
