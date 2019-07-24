@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-plugin-proxy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A puppeteer-extra plugin to add convenient proxy support to puppeteer",
   "main": "src/index.js",
   "directories": {
